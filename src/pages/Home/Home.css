@@ -45,3 +45,19 @@
     border-radius: 5px;
     cursor: pointer;
 }
+.crypto-table{
+    max-width: 800px;
+    margin:auto;
+    background: radial-gradient(circle at 10% 20%, rgba(216, 241, 230, 0.46) 0.1%, rgba(233, 226, 226, 0.28) 90.1%);
+    border-radius: 15px;
+}
+.table-layout {
+    display: grid;
+    grid-template-columns: 0.5fr 2fr 1fr 1fr 1.5fr;
+    padding: 15px 20px;
+    align-items: center;
+    border-bottom: 1px solid #3c3c3c;
+}
+.market-cap {
+    text-align: right;
+}

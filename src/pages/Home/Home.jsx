@@ -22,7 +22,7 @@ export default function Home() {
          <p>Coins</p>
          <p>Price</p>
          <p>24H change</p>
-         <p>Market Cap</p>
+         <p className="market-cap">Market Cap</p>
         </div>
       </div>
     </div>
